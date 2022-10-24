@@ -1,0 +1,76 @@
+img{height: 250px;
+    position: relative;
+    top: 20px;
+    left: 45%;
+}
+
+body{background-image: url('https://imgs.search.brave.com/0DxTjnds5vyYp_fWxwLSBAw4rCFbJTiu6naHjo3sBUQ/rs:fit:917:458:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzkwL2Jl/LzdjLzkwYmU3YzBj/YjM4NDU3NTdkYmNj/ZWUxYWVhOTdmNzkz/LmpwZw');
+    background-size: 100% 300px;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+h1,h2{background-color: blue;
+    background-size: 100%;
+    font-family: ('Times New Roman', Times, serif);
+    color: white;
+    text-align: left;
+    text-transform: capitalize;
+    letter-spacing: 10px;
+    left: 0;
+    right: 0;
+}
+
+.tituloPrincipal{
+    text-align: center;
+    margin-top: 37px;
+    text-transform: uppercase;
+}
+
+#DatosPersonales{
+    position: absolute;  
+}
+#FormacionAcd{
+    position: absolute;
+    top: 100px;
+    
+}
+
+#Datos{
+    position: absolute;
+    top: 40px;    
+}
+section{position: absolute;
+    top: 400px;
+    left: 0;
+    right: 0;
+}
+#listaForm{
+    position: absolute;
+    top: 140px;
+}
+#listaExp{
+    position: absolute;
+    top: 260px;
+}
+#Exp{ 
+    position: absolute;
+    top: 220px;
+}
+
+footer{
+    background-color: rgb(77, 124, 255);
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: large;
+}
+a{color: white;
+}
+.Links{color: blue;
+    text-decoration: underline;
+}
